@@ -20,7 +20,7 @@ link_url = "https://github.com"
 open_in_new_tab = true
 [[page_sections]]
 block = "header-2"
-logo = "/uploads/ironhorse.png"
+logo = "/uploads/2018/06/21/forestry-symbol.svg"
 template = "navigation-header-w-button"
 [page_sections.cta]
 link_text = "Download?"
