@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/ironhorse-trans-red.png"
+  logo: "/uploads/logo-template-2.png"
   navigation:
   - link_url: https://ironhorse.cloud
     link_text: Home
