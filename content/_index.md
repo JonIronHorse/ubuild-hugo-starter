@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link_url: "/"
+  - link_url: https://ironhorse.cloud
     link_text: Home
   - link_url: "#"
     link_text: Features
